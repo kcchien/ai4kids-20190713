@@ -5,6 +5,7 @@ site_url: 'https://kcchien.github.io/ai4kids-20190713/'
 nav:
     - 首頁: index.md
     - 課前需知: notice.md
+    - 場地資訊: venue.md
     - 2019-07-13: 
       - 什麼是人工智慧: what_is_ai.md
       - micro:bit 實作坊: microbit.md
