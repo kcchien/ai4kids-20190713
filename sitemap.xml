@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://kcchien.github.io/ai4kids-20190713/</loc>
+     <lastmod>2019-07-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://kcchien.github.io/ai4kids-20190713/notice/</loc>
+     <lastmod>2019-07-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://kcchien.github.io/ai4kids-20190713/microbit/</loc>
+     <lastmod>2019-07-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://kcchien.github.io/ai4kids-20190713/about/</loc>
+     <lastmod>2019-07-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
