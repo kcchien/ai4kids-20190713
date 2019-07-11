@@ -6,9 +6,14 @@ nav:
     - 首頁: index.md
     - 課前需知: notice.md
     - 2019-07-13: 
-      - micro:bit 體驗: microbit.md
+      - 什麼是人工智慧: what_is_ai.md
+      - micro:bit 實作坊: microbit.md
+      - 編碼遊戲: encode_game.md
     - 2019-07-20:
-      - AI: ai_intro.md
+      - Scratch x AI:
+        - AI 影像辨識展示: ai_image.md
+        - AI 文字辨識實作: ai_make_me_happy.md
+        - AI 語音辨識實作: ai_alien_language.md
     - 關於: about.md
 
 theme: 
