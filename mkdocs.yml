@@ -1,0 +1,34 @@
+site_name: AI4Kids micro:bit x AI 體驗課程 @ 中科自造基地
+site_description: AI4Kids 課程講義
+site_author: '簡光正 Kuang-Cheng, Chien'
+site_url: 'https://kcchien.github.io/ai4kids-20190713/'
+nav:
+    - 首頁: index.md
+    - 課前需知: notice.md
+    - 2019-07-13: 
+      - micro:bit 體驗: microbit.md
+    - 2019-07-20:
+      - AI: ai_intro.md
+    - 關於: about.md
+
+theme: 
+  name: material
+  language: zh-TW
+  feature:
+    tabs: false
+
+# Repository
+repo_name: 'kcchien/ai4kids-20190713'
+repo_url: 'https://github.com/kcchien/ai4kids-20190713'
+
+# Customization
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/AI4kidsTW/'
+
+extra_css:
+  - 'css/extra.css'
+extra_javascript:
+  - js/jquery-3.4.1.min.js
+  - js/embed.js
