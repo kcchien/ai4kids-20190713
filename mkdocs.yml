@@ -11,10 +11,9 @@ nav:
       - micro:bit 實作坊: microbit.md
       - 編碼遊戲: encode_game.md
     - 2019-07-20:
-      - Scratch x AI:
-        - AI 影像辨識展示: ai_image.md
-        - AI 文字辨識實作: ai_make_me_happy.md
-        - AI 語音辨識實作: ai_alien_language.md
+      - AI 影像辨識展示: ai_image.md
+      - AI 文字辨識實作: ai_make_me_happy.md
+      - AI 語音辨識實作: ai_alien_language.md
     - 關於: about.md
 
 theme: 
