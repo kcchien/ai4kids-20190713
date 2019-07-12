@@ -84,8 +84,8 @@ MakeCode 會建立一個分享連結
 - 隨機取數
 - If / Else
 
-[程式碼連結](https://makecode.microbit.org/_aqPVLX87bVrP)
+[程式碼連結](https://makecode.microbit.org/_fvFa3sb60gfm)
 
 程式積木截圖
 
-<img src="https://i.imgur.com/z5E7HQJ.png" width=300>
+<img src="https://i.imgur.com/qt90Yiw.png" width=300>
