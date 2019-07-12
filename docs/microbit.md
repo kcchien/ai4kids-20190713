@@ -22,22 +22,22 @@ https://microbit.org/guide/quick/
 
 ### 如何將程式碼存檔
 
+## micro: bit 第一次接觸
+
+透過 2 個小小的程式，熟悉 micro: bit 的程式編輯介面，如何將寫好的程式下載的 micro: bit 中執行。
+
+### 閃爍的愛心
+
+![](https://i.imgur.com/SlyxZc1.png)
+
+### 微笑與皺眉
+
+![](https://i.imgur.com/Nvpwbfc.png)
+
 ## Project: 瘋狂計步器
 
-```blocks
-input.onGesture(Gesture.Shake, function () {
-    step += 1
-})
-input.onButtonPressed(Button.AB, function () {
-    step = 0
-    basic.showIcon(IconNames.Heart)
-    basic.pause(1000)
-})
-let step = 0
-step = 0
-basic.showIcon(IconNames.Heart)
-basic.pause(1000)
-basic.forever(function () {
-    basic.showNumber(step)
-})
-```
+記錄 micro: bit 加速度感應器的晃動次數，並顯示在 LED 上，輕輕鬆鬆完成屬於自己的計步器。
+
+程式積木截圖
+
+![瘋狂計步器程式積木截圖](https://i.imgur.com/6h4j1Tc.png)

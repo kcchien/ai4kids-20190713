@@ -299,9 +299,72 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        micro:bit 實作坊
+      </label>
+    
     <a href="./" title="micro:bit 實作坊" class="md-nav__link md-nav__link--active">
       micro:bit 實作坊
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">本頁目錄</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="使用前準備" class="md-nav__link">
+    使用前準備
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#microbit_1" title="將 micro:bit 連接到個人電腦" class="md-nav__link">
+    將 micro:bit 連接到個人電腦
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_2" title="啟動程式設計軟體" class="md-nav__link">
+    啟動程式設計軟體
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" title="如何將程式碼存檔" class="md-nav__link">
+    如何將程式碼存檔
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project" title="Project: 瘋狂計步器" class="md-nav__link">
+    Project: 瘋狂計步器
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -412,6 +475,56 @@
     
   
   
+    <label class="md-nav__title" for="__toc">本頁目錄</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="使用前準備" class="md-nav__link">
+    使用前準備
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#microbit_1" title="將 micro:bit 連接到個人電腦" class="md-nav__link">
+    將 micro:bit 連接到個人電腦
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_2" title="啟動程式設計軟體" class="md-nav__link">
+    啟動程式設計軟體
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" title="如何將程式碼存檔" class="md-nav__link">
+    如何將程式碼存檔
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project" title="Project: 瘋狂計步器" class="md-nav__link">
+    Project: 瘋狂計步器
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -426,6 +539,34 @@
                 
                 
                 <h1 id="microbit">micro:bit 程式體驗</h1>
+<h2 id="_1">使用前準備</h2>
+<h3 id="microbit_1">將 micro:bit 連接到個人電腦</h3>
+<p>將 micro:bit 以 micro USB 纜線連接到個人電腦上的 USB 連接埠即可。</p>
+<h3 id="_2">啟動程式設計軟體</h3>
+<p>點擊下列連結，進入 micro:bit 的程式編輯介面</p>
+<p>https://makecode.microbit.org/</p>
+<p>並按下新增專案(New Project)，便可以開始進程式的編寫</p>
+<p>為了達到最佳體驗，請務必使用 Google Chrome 瀏覽器</p>
+<p>詳細的連接與使用步驟，可以參考 micro:bit 官網的說明</p>
+<p>https://microbit.org/guide/quick/</p>
+<h3 id="_3">如何將程式碼存檔</h3>
+<h2 id="project">Project: 瘋狂計步器</h2>
+<pre><code class="blocks">input.onGesture(Gesture.Shake, function () {
+    step += 1
+})
+input.onButtonPressed(Button.AB, function () {
+    step = 0
+    basic.showIcon(IconNames.Heart)
+    basic.pause(1000)
+})
+let step = 0
+step = 0
+basic.showIcon(IconNames.Heart)
+basic.pause(1000)
+basic.forever(function () {
+    basic.showNumber(step)
+})
+</code></pre>
                 
                   
                 

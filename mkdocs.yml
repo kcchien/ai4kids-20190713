@@ -1,4 +1,4 @@
-site_name: AI4Kids micro:bit x AI 體驗課程 @ 中科自造基地
+site_name: AI4Kids micro:bit x AI 親子共學2日營 @ 中科自造基地
 site_description: AI4Kids 課程講義
 site_author: '簡光正 Kuang-Cheng, Chien'
 site_url: 'https://kcchien.github.io/ai4kids-20190713/'
@@ -14,6 +14,7 @@ nav:
       - AI 影像辨識展示: ai_image.md
       - AI 文字辨識實作: ai_make_me_happy.md
       - AI 語音辨識實作: ai_alien_language.md
+      - 生活中的AI: ai_in_life.md
     - 關於: about.md
 
 theme: 
