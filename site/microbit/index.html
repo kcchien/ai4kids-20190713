@@ -42,7 +42,7 @@
     
     
       
-        <title>micro:bit 實作坊 - AI4Kids micro:bit x AI 體驗課程 @ 中科自造基地</title>
+        <title>micro:bit 實作坊 - AI4Kids micro:bit x AI 親子共學2日營 @ 中科自造基地</title>
       
     
     
@@ -94,7 +94,7 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="https://kcchien.github.io/ai4kids-20190713/" title="AI4Kids micro:bit x AI 體驗課程 @ 中科自造基地" class="md-header-nav__button md-logo">
+        <a href="https://kcchien.github.io/ai4kids-20190713/" title="AI4Kids micro:bit x AI 親子共學2日營 @ 中科自造基地" class="md-header-nav__button md-logo">
           
             <i class="md-icon"></i>
           
@@ -107,7 +107,7 @@
         <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           
             <span class="md-header-nav__topic">
-              AI4Kids micro:bit x AI 體驗課程 @ 中科自造基地
+              AI4Kids micro:bit x AI 親子共學2日營 @ 中科自造基地
             </span>
             <span class="md-header-nav__topic">
               
@@ -186,12 +186,12 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="https://kcchien.github.io/ai4kids-20190713/" title="AI4Kids micro:bit x AI 體驗課程 @ 中科自造基地" class="md-nav__button md-logo">
+    <a href="https://kcchien.github.io/ai4kids-20190713/" title="AI4Kids micro:bit x AI 親子共學2日營 @ 中科自造基地" class="md-nav__button md-logo">
       
         <i class="md-icon"></i>
       
     </a>
-    AI4Kids micro:bit x AI 體驗課程 @ 中科自造基地
+    AI4Kids micro:bit x AI 親子共學2日營 @ 中科自造基地
   </label>
   
     <div class="md-nav__source">
@@ -352,6 +352,33 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#micro-bit" title="micro: bit 第一次接觸" class="md-nav__link">
+    micro: bit 第一次接觸
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_4" title="閃爍的愛心" class="md-nav__link">
+    閃爍的愛心
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" title="微笑與皺眉" class="md-nav__link">
+    微笑與皺眉
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#project" title="Project: 瘋狂計步器" class="md-nav__link">
     Project: 瘋狂計步器
   </a>
@@ -441,6 +468,18 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ai_in_life/" title="生活中的AI" class="md-nav__link">
+      生活中的AI
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -513,6 +552,33 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#micro-bit" title="micro: bit 第一次接觸" class="md-nav__link">
+    micro: bit 第一次接觸
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_4" title="閃爍的愛心" class="md-nav__link">
+    閃爍的愛心
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" title="微笑與皺眉" class="md-nav__link">
+    微笑與皺眉
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#project" title="Project: 瘋狂計步器" class="md-nav__link">
     Project: 瘋狂計步器
   </a>
@@ -550,23 +616,16 @@
 <p>詳細的連接與使用步驟，可以參考 micro:bit 官網的說明</p>
 <p>https://microbit.org/guide/quick/</p>
 <h3 id="_3">如何將程式碼存檔</h3>
+<h2 id="micro-bit">micro: bit 第一次接觸</h2>
+<p>透過 2 個小小的程式，熟悉 micro: bit 的程式編輯介面，如何將寫好的程式下載的 micro: bit 中執行。</p>
+<h3 id="_4">閃爍的愛心</h3>
+<p><img alt="" src="https://i.imgur.com/SlyxZc1.png" /></p>
+<h3 id="_5">微笑與皺眉</h3>
+<p><img alt="" src="https://i.imgur.com/Nvpwbfc.png" /></p>
 <h2 id="project">Project: 瘋狂計步器</h2>
-<pre><code class="blocks">input.onGesture(Gesture.Shake, function () {
-    step += 1
-})
-input.onButtonPressed(Button.AB, function () {
-    step = 0
-    basic.showIcon(IconNames.Heart)
-    basic.pause(1000)
-})
-let step = 0
-step = 0
-basic.showIcon(IconNames.Heart)
-basic.pause(1000)
-basic.forever(function () {
-    basic.showNumber(step)
-})
-</code></pre>
+<p>記錄 micro: bit 加速度感應器的晃動次數，並顯示在 LED 上，輕輕鬆鬆完成屬於自己的計步器。</p>
+<p>程式積木截圖</p>
+<p><img alt="瘋狂計步器程式積木截圖" src="https://i.imgur.com/6h4j1Tc.png" /></p>
                 
                   
                 

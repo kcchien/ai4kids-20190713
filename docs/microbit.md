@@ -10,15 +10,11 @@
 
 點擊下列連結，進入 micro:bit 的程式編輯介面
 
-https://makecode.microbit.org/
+[https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-並按下新增專案(New Project)，便可以開始進程式的編寫
+並按下新增專案(New Project)，便可以開始進程式的編寫,為了達到最佳體驗，請務必使用 Google Chrome 瀏覽器，詳細的連接與使用步驟，可以參考 micro:bit 官網的說明
 
-為了達到最佳體驗，請務必使用 Google Chrome 瀏覽器
-
-詳細的連接與使用步驟，可以參考 micro:bit 官網的說明
-
-https://microbit.org/guide/quick/
+[https://microbit.org/guide/quick/](https://microbit.org/guide/quick/)
 
 ### 如何將程式碼存檔
 
@@ -28,7 +24,7 @@ https://microbit.org/guide/quick/
 
 ### 閃爍的愛心
 
-![](https://i.imgur.com/SlyxZc1.png)
+<img src="https://i.imgur.com/SlyxZc1.png" width=300>
 
 ### 微笑與皺眉
 
@@ -38,6 +34,8 @@ https://microbit.org/guide/quick/
 
 記錄 micro: bit 加速度感應器的晃動次數，並顯示在 LED 上，輕輕鬆鬆完成屬於自己的計步器。
 
+[程式碼連結](https://makecode.microbit.org/_41TieV6boY0u)
+
 程式積木截圖
 
-![瘋狂計步器程式積木截圖](https://i.imgur.com/6h4j1Tc.png)
+![瘋狂計步器程式積木截圖](https://i.imgur.com/C0rcRDe.png)
