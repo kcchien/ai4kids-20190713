@@ -1,11 +1,16 @@
 # 場地資訊
 
+## 停車資訊
+
 ## WiFi
 
 無線網路連線資料如下：
 
-iTaiwan 請用手機註冊登入，即可免費上網
-[iTaiwan 上網申請](https://itaiwan.gov.tw/regist_01.php)
+### 中科自造基地提供
+
+選擇無線基地台，名稱為 **Free-CTSP**，連線後會跳出下列網頁，請填入個人手機號碼申請即可。
+
+![](https://i.imgur.com/7KqslbZ.png)
 
 ## 飲水機
 
