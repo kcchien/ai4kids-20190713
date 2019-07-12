@@ -16,16 +16,16 @@
 
 micro:bit 提供的連接線為 USB Type A，為確保您可順利接上 micro:bit，請務必確認您的筆記型電腦上 USB 連接埠符合下列要求。
 
-1.  USB 連接埠 (需為 Type A)，請參照下圖
-    ![USB Type A 連接埠](https://i.imgur.com/4DnoWOZ.png)
+1. USB 連接埠 (需為 Type A)，請參照下圖
+   ![USB Type A 連接埠](https://i.imgur.com/4DnoWOZ.png)
 
-2)  若您的筆記型電腦的 USB 連接埠為 Type-C (2016 之後的 Macbook)，請自行準備 USB Type C 轉接器
+2. 若您的筆記型電腦的 USB 連接埠為 Type-C (2016 之後的 Macbook)，請自行準備 USB Type C 轉接器
 
-![](https://i.imgur.com/NeDSFUW.png)
+![USB Type C 連接埠](https://i.imgur.com/NeDSFUW.png)
 
 上圖為 USB Type C 連接埠的 Macbook
 
-![](https://i.imgur.com/pE7OaGd.png)
+![USB Type C 轉接座](https://i.imgur.com/pE7OaGd.png)
 
 上圖為 USB Type C 轉接座
 
