@@ -69,10 +69,9 @@ MakeCode 會建立一個分享連結
 - 使用加速感應器
 - 變數
 
+### 程式碼
+
 [程式碼連結](https://makecode.microbit.org/_41TieV6boY0u)
-
-程式積木截圖
-
 ![瘋狂計步器程式積木截圖](https://i.imgur.com/C0rcRDe.png)
 
 ## Project: 剪刀. 石頭. 布
@@ -82,10 +81,18 @@ MakeCode 會建立一個分享連結
 ### 學習目標
 
 - 隨機取數
-- If / Else
+- 運用 If / Else 條件式
+
+### 程式碼
+
+#### 使用「顯示指示燈」積木的版本
 
 [程式碼連結](https://makecode.microbit.org/_fvFa3sb60gfm)
 
-程式積木截圖
+   <img src="https://i.imgur.com/qt90Yiw.png" width=300>
 
-<img src="https://i.imgur.com/qt90Yiw.png" width=300>
+#### 使用「顯示圖示」積木的版本
+
+[程式碼連結](https://makecode.microbit.org/_UTTMxW1kMghy)
+
+   <img src="https://i.imgur.com/CDY5UsP.png" width=300>

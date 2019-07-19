@@ -1,0 +1,27 @@
+# AI 文字辨識實作: Make Me Happy
+
+時間：約 50 分鐘
+
+## 登入 AI 教室
+
+請至下列網址，依據你分配到的號碼，輸入帳號密碼登入
+
+AI 教室網址
+
+[https://machinelearningforkids.co.uk/#!/login](https://machinelearningforkids.co.uk/#!/login)
+
+[講義參考](https://docs.google.com/document/d/16ssKzdYqZx2pMcimj37IU8dZieNsowmyrh8mucKlj0s/edit?usp=sharing)
+
+## 實作說明
+
+訓練一個可以識別文字情緒的 AI 模型，當你對模型輸入文字時，AI 模型會試著判斷你輸入文字是善意或惡意。如果是善意，會出現微笑，否則出現生氣的表情。最後在 Scratch 3 中，運用這個 AI 模型來控制角色的情緒
+
+## 學習目標
+
+- 訓練文字識別模型
+- 了解電腦如何被訓練可以從文字中判斷情緒
+- 監督式學習的系統如何處理未預期的輸入
+
+## 線上 AI 文字辨識服務體驗
+
+[微軟語音理解服務](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)

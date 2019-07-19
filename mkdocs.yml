@@ -10,10 +10,11 @@ nav:
       - 什麼是人工智慧: what_is_ai.md
       - micro:bit 實作坊: microbit.md
       - 編碼遊戲: encode_game.md
-    - 第二天活動:
+    - 第二天活動: 
+      - 課前注意事項: d2_notice.md
+      - AI 語音辨識實作: ai_voice.md
+      - AI 文字辨識實作: ai_text.md
       - AI 影像辨識展示: ai_image.md
-      - AI 文字辨識實作: ai_make_me_happy.md
-      - AI 語音辨識實作: ai_alien_language.md
       - 生活中的AI: ai_in_life.md
     - 關於: about.md
 
