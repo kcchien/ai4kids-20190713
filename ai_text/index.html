@@ -13,7 +13,7 @@
         <meta name="description" content="AI4Kids 課程講義">
       
       
-        <link rel="canonical" href="https://kcchien.github.io/ai4kids-20190713/ai_make_me_happy/">
+        <link rel="canonical" href="https://kcchien.github.io/ai4kids-20190713/ai_text/">
       
       
         <meta name="author" content="簡光正 Kuang-Cheng, Chien">
@@ -339,8 +339,20 @@
 
 
   <li class="md-nav__item">
-    <a href="../ai_image/" title="AI 影像辨識展示" class="md-nav__link">
-      AI 影像辨識展示
+    <a href="../d2_notice/" title="課前注意事項" class="md-nav__link">
+      課前注意事項
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ai_voice/" title="AI 語音辨識實作" class="md-nav__link">
+      AI 語音辨識實作
     </a>
   </li>
 
@@ -359,9 +371,59 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        AI 文字辨識實作
+      </label>
+    
     <a href="./" title="AI 文字辨識實作" class="md-nav__link md-nav__link--active">
       AI 文字辨識實作
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">本頁目錄</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ai" title="登入 AI 教室" class="md-nav__link">
+    登入 AI 教室
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="實作說明" class="md-nav__link">
+    實作說明
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="學習目標" class="md-nav__link">
+    學習目標
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ai_1" title="線上 AI 文字辨識服務體驗" class="md-nav__link">
+    線上 AI 文字辨識服務體驗
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -372,8 +434,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../ai_alien_language/" title="AI 語音辨識實作" class="md-nav__link">
-      AI 語音辨識實作
+    <a href="../ai_image/" title="AI 影像辨識展示" class="md-nav__link">
+      AI 影像辨識展示
     </a>
   </li>
 
@@ -424,6 +486,43 @@
     
   
   
+    <label class="md-nav__title" for="__toc">本頁目錄</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ai" title="登入 AI 教室" class="md-nav__link">
+    登入 AI 教室
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" title="實作說明" class="md-nav__link">
+    實作說明
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="學習目標" class="md-nav__link">
+    學習目標
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ai_1" title="線上 AI 文字辨識服務體驗" class="md-nav__link">
+    線上 AI 文字辨識服務體驗
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -434,10 +533,26 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/kcchien/ai4kids-20190713/edit/master/docs/ai_make_me_happy.md" title="編輯此頁" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/kcchien/ai4kids-20190713/edit/master/docs/ai_text.md" title="編輯此頁" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="ai-make-me-happy">AI 文字辨識實作 Make Me Happy</h1>
+                <h1 id="ai-make-me-happy">AI 文字辨識實作: Make Me Happy</h1>
+<p>時間：約 50 分鐘</p>
+<h2 id="ai">登入 AI 教室</h2>
+<p>請至下列網址，依據你分配到的號碼，輸入帳號密碼登入</p>
+<p>AI 教室網址</p>
+<p><a href="https://machinelearningforkids.co.uk/#!/login">https://machinelearningforkids.co.uk/#!/login</a></p>
+<p><a href="https://docs.google.com/document/d/16ssKzdYqZx2pMcimj37IU8dZieNsowmyrh8mucKlj0s/edit?usp=sharing">講義參考</a></p>
+<h2 id="_1">實作說明</h2>
+<p>訓練一個可以識別文字情緒的 AI 模型，當你對模型輸入文字時，AI 模型會試著判斷你輸入文字是善意或惡意。如果是善意，會出現微笑，否則出現生氣的表情。最後在 Scratch 3 中，運用這個 AI 模型來控制角色的情緒</p>
+<h2 id="_2">學習目標</h2>
+<ul>
+<li>訓練文字識別模型</li>
+<li>了解電腦如何被訓練可以從文字中判斷情緒</li>
+<li>監督式學習的系統如何處理未預期的輸入</li>
+</ul>
+<h2 id="ai_1">線上 AI 文字辨識服務體驗</h2>
+<p><a href="https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/">微軟語音理解服務</a></p>
                 
                   
                 
@@ -458,7 +573,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../ai_image/" title="AI 影像辨識展示" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../ai_voice/" title="AI 語音辨識實作" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -467,19 +582,19 @@
                 <span class="md-footer-nav__direction">
                   上一頁
                 </span>
-                AI 影像辨識展示
+                AI 語音辨識實作
               </span>
             </div>
           </a>
         
         
-          <a href="../ai_alien_language/" title="AI 語音辨識實作" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../ai_image/" title="AI 影像辨識展示" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   下一頁
                 </span>
-                AI 語音辨識實作
+                AI 影像辨識展示
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
