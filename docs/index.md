@@ -18,11 +18,9 @@
 ### Day 1
 
 1. 什麼是人工智慧 / 30 mins
-2. micro:bit 程式實作 / 80 mins
+2. [micro:bit 程式實作](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day1/microbit+x+AI+%E8%A6%AA%E5%AD%90%E5%85%B1%E5%AD%B8%E7%87%9F+-+D1-microbit%E5%AF%A6%E4%BD%9C%E5%9D%8A.pdf) / 80 mins
 3. 編碼遊戲 / 40 mins
 4. 感想回饋 / 20 mins
-
-[第一天簡報檔](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day1/microbit+x+AI+%E8%A6%AA%E5%AD%90%E5%85%B1%E5%AD%B8%E7%87%9F+-+D1-microbit%E5%AF%A6%E4%BD%9C%E5%9D%8A.pdf)
 
 ### Day 2
 
