@@ -17,15 +17,22 @@
 
 ### Day 1
 
-1. 什麼是人工智慧 / 30 mins
-2. [micro:bit 程式實作](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day1/microbit+x+AI+%E8%A6%AA%E5%AD%90%E5%85%B1%E5%AD%B8%E7%87%9F+-+D1-microbit%E5%AF%A6%E4%BD%9C%E5%9D%8A.pdf) / 80 mins
-3. 編碼遊戲 / 40 mins
-4. 感想回饋 / 20 mins
+#### 1. 什麼是人工智慧 / 30 mins
+
+#### 2. [micro:bit 程式實作](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day1/microbit+x+AI+%E8%A6%AA%E5%AD%90%E5%85%B1%E5%AD%B8%E7%87%9F+-+D1-microbit%E5%AF%A6%E4%BD%9C%E5%9D%8A.pdf) / 80 mins
+
+#### 3. 編碼遊戲 / 40 mins
+
+#### 4. 感想回饋 / 20 mins
 
 ### Day 2
 
-1. Scrath AI 影像辨識講師展示 (Cats v.s. Dogs) / 10 mins
-1. Scratch AI 文字辨識實作 (Make me happy) / 50 mins
-1. Scratch AI 語音辨識實作 (Alien Language) / 50 mins
-1. 生活中的 AI / 30 mins
-1. 感想回饋 / 20 mins
+#### 1. AI 語音/文字/影像辨識實作
+
+- AI 文字辨識實作 (Smart Classroom) / 50 mins
+- AI 語音辨識實作 (Make Me Happy) / 50 mins
+- AI 影像辨識講師展示 (Cats v.s. Dogs) / 20 mins
+
+#### 2. 生活中的 AI / 30 mins
+
+#### 3. 感想回饋 / 20 mins
