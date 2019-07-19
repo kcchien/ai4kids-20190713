@@ -12,9 +12,9 @@
 
 請至下列網址，依據你分配到的號碼，輸入帳號密碼登入
 
-AI 教室網址
+[AI 教室網址](https://machinelearningforkids.co.uk/#!/login)
 
-[https://machinelearningforkids.co.uk/#!/login](https://machinelearningforkids.co.uk/#!/login)
+![](https://i.imgur.com/246zQQV.png)
 
 [講義參考](https://docs.google.com/document/d/1gH5hrHmofCOI-W91HWIkj0yeZf33FEGaYechN_pmo_M/edit?usp=sharing)
 
