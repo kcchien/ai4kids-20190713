@@ -36,3 +36,13 @@
 #### 2. [生活中的 AI](https://drive.google.com/file/d/1w-NwnDB_qT9gL_GbSPncdHCQugG4_Sa5/view?usp=sharing) / 30 mins
 
 #### 3. 感想回饋 / 20 mins
+
+## About AI4Kids
+
+![ai4kids logo](https://i.imgur.com/ca8xg8t.png)
+
+### 連絡方式：
+
+[FB 專頁](https://www.facebook.com/AI4kidsTW/)
+
+[service@ai4kids.ai](service@ai4kids.ai)
