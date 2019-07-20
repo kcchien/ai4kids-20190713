@@ -30,6 +30,36 @@
 
 ![](https://i.imgur.com/lrKElpH.png)
 
+### 指令範例
+
+你可以自己發想屬於自已的語音指令集，也可以從下列複製
+
+#### lamp_on
+
+- 開燈
+- 好暗喔
+- 亮⼀點
+- 怎麼那麼⿊
+- 看不清楚
+- 把燈打開
+- 看不⾒了
+- 誰把燈關了
+- Suprise
+- Blah Blah
+
+#### lamp_off
+
+- 關燈
+- 好亮喔
+- 暗⼀點
+- 怎麼沒關燈
+- 太刺眼了
+- 把燈關掉
+- 我要睡了
+- 我出⾨了
+- 省電
+- turn off lamp
+
 ### Scratch 程式碼下載
 
 - [Rule base 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/Smart-Classroom-1.sb3)
