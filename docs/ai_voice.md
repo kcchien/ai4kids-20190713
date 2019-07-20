@@ -34,7 +34,9 @@
 
 - [Rule base 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/Smart-Classroom-1.sb3)
 
-- [AI 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/Smart-Classroom-2.sb3)
+- [AI 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/Smart-Classroom-AI.sb3)
+
+- [AI + micro:bit 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/Smart-Classroom-AI-microbit.sb3)
 
 ## 線上 AI 語音辨識服務體驗
 
