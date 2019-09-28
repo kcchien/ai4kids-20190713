@@ -6,7 +6,7 @@
 
 將 micro:bit 以 micro USB 纜線連接到個人電腦上的 USB 連接埠即可。
 
-### 啟動程式設計軟體
+### 啟動 MakeCode
 
 點擊下列連結，進入 micro:bit 的程式編輯介面
 
@@ -60,7 +60,7 @@ MakeCode 會建立一個分享連結
 
 ![](https://i.imgur.com/Nvpwbfc.png)
 
-## Project: 瘋狂計步器
+## Project #1: 瘋狂計步器
 
 記錄 micro: bit 加速度感應器的晃動次數，並顯示在 LED 上，輕輕鬆鬆完成屬於自己的計步器。孩子們可以初步認識到程式語言是如何使用變數的概念。
 
@@ -74,7 +74,7 @@ MakeCode 會建立一個分享連結
 [程式碼連結](https://makecode.microbit.org/_41TieV6boY0u)
 ![瘋狂計步器程式積木截圖](https://i.imgur.com/C0rcRDe.png)
 
-## Project: 剪刀. 石頭. 布
+## Project #2: 剪刀. 石頭. 布
 
 學習使用 micro: bit 的加速度感應器，來製作猜拳遊戲。在這個實作中，可以教導孩子學會簡單的條件式判斷 IF/ELSE，以及運用數學的隨機取數。
 

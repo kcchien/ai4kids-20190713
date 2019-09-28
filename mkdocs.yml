@@ -1,41 +1,40 @@
-site_name: AI4Kids micro:bit x AI 親子共學2日營 @ 中科自造基地
-site_description: AI4Kids 課程講義
-site_author: '簡光正 Kuang-Cheng, Chien'
-site_url: 'https://kcchien.github.io/ai4kids-20190713/'
+site_name: AI4Kids micro:bit x AI 人工智慧週末實作營
+site_description: AI4Kids micro:bit x AI 人工智慧週末實作營課程講義
+site_author: "AI4Kids - 簡光正 Kuang-Cheng, Chien"
+site_url: "https://ai4kids-k36-bootcamp.netlify.com/"
 nav:
-    - 首頁: index.md
-    - 課前需知: notice.md
-    - 場地資訊: venue.md
-    - 第一天活動: 
+  - 首頁: index.md
+  - 課前需知: notice.md
+  - 第一天活動:
       - 什麼是人工智慧: what_is_ai.md
       - micro:bit 實作坊: microbit.md
       - 編碼遊戲: encode_game.md
-    - 第二天活動: 
+  - 第二天活動:
       - 課前注意事項: d2_notice.md
       - AI 語音辨識實作: ai_voice.md
       - AI 文字辨識實作: ai_text.md
       - AI 影像辨識展示: ai_image.md
       - 生活中的AI: ai_in_life.md
-    - 關於: about.md
+  - 關於: about.md
 
-theme: 
+theme:
   name: material
   language: zh-TW
   feature:
     tabs: false
 
 # Repository
-repo_name: 'kcchien/ai4kids-20190713'
-repo_url: 'https://github.com/kcchien/ai4kids-20190713'
+#repo_name: "kcchien/ai4kids-20190713"
+#repo_url: "https://github.com/kcchien/ai4kids-20190713"
 
 # Customization
 extra:
   social:
-    - type: 'facebook'
-      link: 'https://www.facebook.com/AI4kidsTW/'
+    - type: "facebook"
+      link: "https://www.facebook.com/AI4kidsTW/"
 
 extra_css:
-  - 'css/extra.css'
+  - "css/extra.css"
 extra_javascript:
   - js/jquery-3.4.1.min.js
   - js/embed.js
