@@ -5,11 +5,11 @@ site_url: "https://ai4kids-k36-bootcamp.netlify.com/"
 nav:
   - 首頁: index.md
   - 課前需知: notice.md
-  - 第一天活動:
+  - SECTION 1:
       - 什麼是人工智慧: what_is_ai.md
       - micro:bit 實作坊: microbit.md
       - 編碼遊戲: encode_game.md
-  - 第二天活動:
+  - SECTION 2:
       - 課前注意事項: d2_notice.md
       - AI 語音辨識實作: ai_voice.md
       - AI 文字辨識實作: ai_text.md
