@@ -1,4 +1,4 @@
-# micro:bit 程式體驗
+# micro:bit 實作坊
 
 ## 課前準備
 
@@ -71,7 +71,8 @@ MakeCode 會建立一個分享連結
 
 ### 程式碼
 
-[程式碼連結](https://makecode.microbit.org/_41TieV6boY0u)
+<a href="https://makecode.microbit.org/_41TieV6boY0u" target="_blank">程式碼連結</a>
+
 ![瘋狂計步器程式積木截圖](https://i.imgur.com/C0rcRDe.png)
 
 ## Project #2: 剪刀. 石頭. 布
@@ -87,12 +88,12 @@ MakeCode 會建立一個分享連結
 
 #### 使用「顯示指示燈」積木的版本
 
-[程式碼連結](https://makecode.microbit.org/_fvFa3sb60gfm)
+<a href="https://makecode.microbit.org/_fvFa3sb60gfm" target="_blank">程式碼連結</a>
 
-   <img src="https://i.imgur.com/qt90Yiw.png" width=300>
+<img src="https://i.imgur.com/qt90Yiw.png" width=300>
 
 #### 使用「顯示圖示」積木的版本
 
-[程式碼連結](https://makecode.microbit.org/_UTTMxW1kMghy)
+<a href="https://makecode.microbit.org/_UTTMxW1kMghy" target="_blank">程式碼連結</a>
 
-   <img src="https://i.imgur.com/CDY5UsP.png" width=300>
+<img src="https://i.imgur.com/CDY5UsP.png" width=300>

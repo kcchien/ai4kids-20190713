@@ -15,7 +15,6 @@ nav:
       - AI 影像辨識展示: ai_image.md
       - 生活中的AI: ai_in_life.md
   - 關於: about.md
-
 theme:
   name: material
   language: zh-TW
