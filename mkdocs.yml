@@ -8,7 +8,6 @@ nav:
   - SECTION 1:
       - 什麼是人工智慧: what_is_ai.md
       - micro:bit 實作坊: microbit.md
-      - 編碼遊戲: encode_game.md
   - SECTION 2:
       - 課前注意事項: d2_notice.md
       - AI 語音辨識實作: ai_voice.md
